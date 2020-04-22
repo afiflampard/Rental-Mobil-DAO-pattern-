@@ -1,0 +1,17 @@
+C:\Users\Adit\source\repos\Projek\Projek\bin\Debug\Projek.exe.config
+C:\Users\Adit\source\repos\Projek\Projek\bin\Debug\Projek.exe
+C:\Users\Adit\source\repos\Projek\Projek\bin\Debug\Projek.pdb
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.csprojAssemblyReference.cache
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.Form1.resources
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.Properties.Resources.resources
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.csproj.GenerateResource.cache
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.csproj.CoreCompileInputs.cache
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.exe
+C:\Users\Adit\source\repos\Projek\Projek\obj\Debug\Projek.pdb
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.Form1.resources
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.Properties.Resources.resources
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.exe
+C:\Users\user\source\repos\Projek\Projek\obj\Debug\Projek.pdb
